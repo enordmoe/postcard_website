@@ -2,6 +2,8 @@
 title: "Eric Nordmoe"
 image: "nordmoe_e-photo.png"
 links:
+  - label: GitHub
+    url: "https://github.com/enordmoe"
   - label: CV
     url: "./nordmoe_cv_aug21.pdf"
   - label: My Google Calendar
