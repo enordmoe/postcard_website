@@ -4,23 +4,19 @@ image: "nordmoe_e-photo.png"
 links:
   - label: CV
     url: "./nordmoe_cv_aug21.pdf"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: My Google Calendar
+    url: "http://people.kzoo.edu/enordmoe/offhrs.html"
+  - label: To make an appointment
+    url: "https://enordmoe.youcanbook.me/"
+  - label: E-mail
+    url: "mailto:eric.nordmoe@kzoo.edu"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. His interests include family, [pickleball](https://youtu.be/kqLRRNOpe8U) and walking his labradoodle [Auggie](./auggie.png).
 
 ## Education
 
