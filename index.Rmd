@@ -18,7 +18,7 @@ output:
  
 ## Bio
 
-Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. His interests include family, [pickleball](https://youtu.be/kqLRRNOpe8U) and walking his labradoodle [Auggie](./auggie.png).
+Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. Outide statistics, his interests include family, [Premier League Football](https://www.premierleague.com/) , [pickleball](https://youtu.be/kqLRRNOpe8U) and nature walks at the nearby Kalamazoo College Lillian Anderson [Arboretum](https://arboretum.kzoo.edu/).
 
 ## Education
 
