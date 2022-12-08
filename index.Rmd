@@ -6,10 +6,8 @@ links:
     url: "https://github.com/enordmoe"
   - label: CV
     url: "./nordmoe_cv_aug21.pdf"
-  - label: My Google Calendar
-    url: "http://people.kzoo.edu/enordmoe/offhrs.html"
   - label: To make an appointment
-    url: "https://enordmoe.youcanbook.me/"
+    url: "https://outlook.office365.com/owa/calendar/OfficeHours1@kzoo.onmicrosoft.com/bookings/"
   - label: E-mail
     url: "mailto:eric.nordmoe@kzoo.edu"
 output:
