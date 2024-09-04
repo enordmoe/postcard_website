@@ -5,7 +5,7 @@ links:
   - label: GitHub
     url: "https://github.com/enordmoe"
   - label: CV
-    url: "./nordmoe_cv_aug21.pdf"
+    url: "./nordmoe_cv_aug24.pdf"
   - label: To make an appointment
     url: "https://outlook.office365.com/owa/calendar/OfficeHours1@kzoo.onmicrosoft.com/bookings/"
   - label: E-mail
@@ -13,45 +13,39 @@ links:
 output:
   postcards::solana
 ---
- 
+
 ### Office Hours
 
-MW 3-4 | Th 2-4  or by appointment or serendipity
+MW 3-4 \| Th 2-4 or by appointment or serendipity
 
- 
- 
 ## Bio
 
 Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. Outside statistics, his interests include family, [Premier League Football](https://www.premierleague.com/) , [pickleball](https://youtu.be/kqLRRNOpe8U) and nature walks at the nearby Kalamazoo College Lillian Anderson [Arboretum](https://arboretum.kzoo.edu/).
 
+## 2024-25 Courses
 
-
-## 2023-24 Courses 
-
-* Calculus II (MATH 113) | Fall 2023
-* Applied Statistics I (MATH 260) | Fall 2023
-* Applied Statistics II (MATH 360) | Winter 2024
-* Introduction to Data Science (MATH 265) | Winter 2024
-* Biostatistics (MATH 261) | Spring 2024
-* Mathematical Statistics (MATH 365) | Spring 2024
-
+-   Calculus II (MATH 113) \| Fall 2024
+-   Applied Statistics I (MATH 260) \| Fall 2024, Winter 2025
+-   Introduction to Data Science (MATH 265) \| Winter 2025
+-   Biostatistics (MATH 261) \| Spring 2025
+-   Mathematical Statistics (MATH 365) \| Spring 2025
 
 ## Education
 
-**University of Chicago** | Chicago, IL
+**University of Chicago** \| Chicago, IL
 
-BA (Economics), MBA (Marketing and Econometrics) | June 1981, 1987
+BA (Economics), MBA (Marketing and Econometrics) \| June 1981, 1987
 
-**Northwestern University** | Evanston, IL
+**Northwestern University** \| Evanston, IL
 
-PhD in Statistics | 1993
+PhD in Statistics \| 1993
 
 ## Experience
 
-**Professor** | Kalamazoo College | 1996 - Present
+**Professor** \| Kalamazoo College \| 1996 - Present
 
-**Visiting Professor** | Korea University  | Summer 2010
+**Visiting Professor** \| Korea University \| Summer 2010
 
-**Lecturer** | National University of Singapore  | 1993-96
+**Lecturer** \| National University of Singapore \| 1993-96
 
-**Kraft, Inc** | Market Research Analyst | 1985-1988
+**Kraft, Inc** \| Market Research Analyst \| 1985-1988
