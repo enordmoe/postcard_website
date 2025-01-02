@@ -7,7 +7,7 @@ links:
   - label: CV
     url: "./nordmoe_cv_aug24.pdf"
   - label: To make an appointment
-    url: "https://outlook.office365.com/owa/calendar/OfficeHours1@kzoo.onmicrosoft.com/bookings/"
+    url: "https://outlook.office.com/bookwithme/user/687af50b1b1d4ad5bc59306d7efd08d2@kzoo.edu?anonymous&ep=plink"
   - label: E-mail
     url: "mailto:eric.nordmoe@kzoo.edu"
 output:
@@ -20,7 +20,7 @@ MW 3-4 \| Th 2-4 or by appointment or serendipity
 
 ## Bio
 
-Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. Outside statistics, his interests include family, [Premier League Football](https://www.premierleague.com/) , [pickleball](https://youtu.be/kqLRRNOpe8U) and nature walks at the nearby Kalamazoo College Lillian Anderson [Arboretum](https://arboretum.kzoo.edu/).
+Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo College. His scholarly interests include statistics education, analysis of categorical data and the analysis of longitudinal data. Outside statistics, his interests include family, [Premier League Football](https://www.premierleague.com/), [pickleball](https://youtu.be/kqLRRNOpe8U) and hiking  at the nearby Kalamazoo College Lillian Anderson [Arboretum](https://arboretum.kzoo.edu/).
 
 ## 2024-25 Courses
 
