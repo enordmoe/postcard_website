@@ -24,11 +24,9 @@ Eric Nordmoe is a Professor and chair of the Mathematics Department at Kalamazoo
 
 ## 2024-25 Courses
 
--   Calculus II (MATH 113) \| Fall 2024
--   Applied Statistics I (MATH 260) \| Fall 2024, Winter 2025
--   Introduction to Data Science (MATH 265) \| Winter 2025
--   Biostatistics (MATH 261) \| Spring 2025
--   Mathematical Statistics (MATH 365) \| Spring 2025
+-   Calculus II (MATH 113) \| Fall 2026 and Spring 2027
+-   Applied Statistics I (MATH 260) \| Fall 2026, Winter-Spring 2027
+-   Mathematical Statistics (MATH 365) \| Winter 2027
 
 ## Education
 
